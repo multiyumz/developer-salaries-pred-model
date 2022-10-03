@@ -9,3 +9,5 @@ Data was first analysed and cleaned in notebooks and a subsequent model was trai
 Finally the web app was designed and served using streamlit.
 
 Please run `streamlit run app.py` to view the completed app.
+
+Please run 'streamlit run app.py' to view the completed app.
